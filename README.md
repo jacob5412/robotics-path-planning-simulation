@@ -1,4 +1,4 @@
-# Path Planning Simulator
+# Robotics Path Planning Simulator
 
 Path planning simulator for the project component of CSE3011: Robotics and its applications at Vellore Institute of Technology, Vellore.
 
