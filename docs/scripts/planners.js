@@ -144,7 +144,7 @@ function initSearch() {
     path_length = 0;
     path_found = false;
     cur_time = Date.now();
-    min_msec_between_iterations = 20;
+    min_msec_between_iterations = 5;
     
     // Add TextBar Stats Element
     textbar = document.getElementById("textbar");
